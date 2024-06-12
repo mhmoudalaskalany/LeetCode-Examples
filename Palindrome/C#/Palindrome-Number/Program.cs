@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Checking if Number is Palindrome Without Converting To String!");
+﻿Console.WriteLine("Hello, Checking if Number is Palindrome Without Converting To String!");
 var strNumber = Console.ReadLine();
 int sum = 0;
 int remaining;
